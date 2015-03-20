@@ -1,8 +1,8 @@
 # Resource Library
 A list of useful resources around SANE, Sails, Ember, io.js
 
-## Ecmascript 6
-- [ECMAScript Resource Collection by Eric Douglas](https://github.com/ericdouglas/ES6-Learning)
+## ECMAScript 6
+- [ECMAScript 6 Resource Collection by Eric Douglas](https://github.com/ericdouglas/ES6-Learning)
 
 
 ## Links
