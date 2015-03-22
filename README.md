@@ -14,6 +14,10 @@ A list of useful resources around SANE, Sails, Ember, io.js
 - [API Evangelist - Projects](http://kinlane.com/projects/)
 - [API Commons - Community shared API designs](http://apicommons.org)
 
+## Data Modeling
+- [DB Patterns - an open tool for Database design patterns](http://dbpatterns.com/)
+
+
 ## ECMAScript 6
 - [ECMAScript 6 Resource Collection by Eric Douglas](https://github.com/ericdouglas/ES6-Learning)
 - [Know Then - Excellent video lessons on Koa.js and Ecmascript 6](http://knowthen.com/) 
