@@ -1,6 +1,10 @@
 # Resource Library
 A list of useful resources around SANE, Sails, Ember, io.js
 
+## Ember 
+
+- [RWJ Blue's JSBins - The top contributor to Ember shared his bins](https://gist.github.com/rwjblue/8816372)
+
 ## API
 
 - [API Evangelist - Projects](http://kinlane.com/projects/)
