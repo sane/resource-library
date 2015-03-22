@@ -3,6 +3,7 @@ A list of useful resources around SANE, Sails, Ember, io.js
 
 ## API
 
+- [API Evangelist - Projects](http://kinlane.com/projects/)
 - [API Commons - Community shared API designs](http://apicommons.org)
 
 ## ECMAScript 6
