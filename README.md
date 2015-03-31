@@ -19,8 +19,9 @@ A list of useful resources around SANE, Sails, Ember, io.js
 
 
 ## ECMAScript 6
-- [ECMAScript 6 Resource Collection by Eric Douglas](https://github.com/ericdouglas/ES6-Learning)
+- [ECMAScripts 6 Generators in depth by Dr. Axel Rauschmayer](http://www.2ality.com/2015/03/es6-generators.html)
 - [Know Then - Excellent video lessons on Koa.js and Ecmascript 6](http://knowthen.com/) 
+- [ECMAScript 6 Resource Collection by Eric Douglas](https://github.com/ericdouglas/ES6-Learning)
 
 ## Performance
 - [Raygun - Hapi vs Express vs Restify vs Raw HTTP in Node](https://raygun.io/blog/2015/03/node-performance-hapi-express-js-restify/)
