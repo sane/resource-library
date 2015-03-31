@@ -4,6 +4,7 @@ A list of useful resources around SANE, Sails, Ember, io.js
 ## Ember 
 
 - [RWJ Blue's JSBins - The top contributor to Ember shared his bins](https://gist.github.com/rwjblue/8816372)
+- [Emberconf 2015](https://github.com/poteto/emberconf-2015)
 
 ## Sails 
 
@@ -31,5 +32,8 @@ A list of useful resources around SANE, Sails, Ember, io.js
 ## Videos
 
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+
+## io.js
+- [JavaScript Jabber with Isaac Schleuter & Mikeal Rogers](http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers)
 
 ## Packages
