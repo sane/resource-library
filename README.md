@@ -36,4 +36,7 @@ A list of useful resources around SANE, Sails, Ember, io.js
 ## io.js
 - [JavaScript Jabber with Isaac Schleuter & Mikeal Rogers](http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers)
 
+## Testing
+ - [Zuul - multi-framework browser testing](https://github.com/defunctzombie/zuul)
+
 ## Packages
