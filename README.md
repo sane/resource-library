@@ -5,6 +5,7 @@ A list of useful resources around SANE, Sails, Ember, io.js
 
 - [RWJ Blue's JSBins - The top contributor to Ember shared his bins](https://gist.github.com/rwjblue/8816372)
 - [Emberconf 2015](https://github.com/poteto/emberconf-2015)
+- [Dockyard's Ember Styleguide](https://github.com/dockyard/styleguides/blob/master/ember.md)
 
 ## Sails 
 
