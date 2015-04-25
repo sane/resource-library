@@ -20,7 +20,7 @@ A list of useful resources around SANE, Sails, Ember, io.js
 - [DB Patterns - an open tool for Database design patterns](http://dbpatterns.com/)
 
 
-## ECMAScript 6
+## ECMAScript 6/7
 - [Compatibility table](https://github.com/kangax/compat-table)
 - [ECMAScripts 6 Generators in depth by Dr. Axel Rauschmayer](http://www.2ality.com/2015/03/es6-generators.html)
 - [Know Then - Excellent video lessons on Koa.js and Ecmascript 6](http://knowthen.com/) 
