@@ -21,6 +21,7 @@ A list of useful resources around SANE, Sails, Ember, io.js
 
 
 ## ECMAScript 6
+- [Compatibility table](https://github.com/kangax/compat-table)
 - [ECMAScripts 6 Generators in depth by Dr. Axel Rauschmayer](http://www.2ality.com/2015/03/es6-generators.html)
 - [Know Then - Excellent video lessons on Koa.js and Ecmascript 6](http://knowthen.com/) 
 - [ECMAScript 6 Resource Collection by Eric Douglas](https://github.com/ericdouglas/ES6-Learning)
