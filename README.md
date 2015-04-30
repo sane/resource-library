@@ -19,7 +19,6 @@ A list of useful resources around SANE, Sails, Ember, io.js
 ## Data Modeling
 - [DB Patterns - an open tool for Database design patterns](http://dbpatterns.com/)
 
-
 ## ECMAScript 6/7
 - [Compatibility table](https://github.com/kangax/compat-table)
 - [ECMAScripts 6 Generators in depth by Dr. Axel Rauschmayer](http://www.2ality.com/2015/03/es6-generators.html)
@@ -30,13 +29,14 @@ A list of useful resources around SANE, Sails, Ember, io.js
 - [Raygun - Hapi vs Express vs Restify vs Raw HTTP in Node](https://raygun.io/blog/2015/03/node-performance-hapi-express-js-restify/)
 - [Raygun - Node vs io](https://raygun.io/blog/2015/02/node-js-performance-node-js-vs-io-js/)
 
-
 ## Videos
-
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 
 ## io.js
 - [JavaScript Jabber with Isaac Schleuter & Mikeal Rogers](http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers)
+
+## Debugging
+- [Chrome Dev Tools Visual tutorials ](https://github.com/andersonweb/DevTools-Learning)
 
 ## Testing
  - [Zuul - multi-framework browser testing](https://github.com/defunctzombie/zuul)
